@@ -178,8 +178,6 @@ nav>a:hover
     font-size: 14pt;
     color: #FFA600;
     text-align: justify;
-<<<<<<< HEAD
-=======
 }
 #book-table > .booktable1 > li
 {
@@ -318,7 +316,6 @@ footer
 {
     color: yellow;
     /* color: #FFA600; */
->>>>>>> 84f3e96efeb911d8b23add189f9ab048fdc25292
 }
 #book-table > .booktable1 > li
 {
@@ -393,7 +390,7 @@ footer
     width: 350px;
     height: 290px;
     margin-left: 100px;
-    margin-top: 20px;
+    margin-top: 30px;
     padding: 0px 15px;
     box-shadow: 0px 0px 26px -5px #F97F00;
 }
